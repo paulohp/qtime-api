@@ -1,0 +1,19 @@
+{
+  "name": "qtime-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paulohp/qtime-api.git"
+  },
+  "author": "Paulo Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulohp/qtime-api/issues"
+  },
+  "homepage": "https://github.com/paulohp/qtime-api"
+}

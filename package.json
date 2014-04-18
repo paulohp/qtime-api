@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/paulohp/qtime-api/issues"
   },
-  "homepage": "https://github.com/paulohp/qtime-api"
+  "homepage": "https://github.com/paulohp/qtime-api",
+  "dependencies": {
+    "request": "^2.34.0",
+    "express": "^4.0.0"
+  }
 }
